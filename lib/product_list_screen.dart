@@ -140,6 +140,7 @@ class _ProductListScreenState extends State<ProductListScreen> {
                 ),
               ),
             ),
+
             Padding(
               padding: const EdgeInsets.symmetric(horizontal: 8.0),
               child: Text(
